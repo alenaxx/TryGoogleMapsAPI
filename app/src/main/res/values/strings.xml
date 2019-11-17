@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TryGoogleMapsAPI</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="find_restaurants">Find Restaurants</string>
+</resources>
